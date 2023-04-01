@@ -1,5 +1,3 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 🔭 I’m currently working on **machine learning technology**
 
 - 👯 I’m looking to collaborate on **anything!**
